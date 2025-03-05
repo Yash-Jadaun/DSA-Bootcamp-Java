@@ -50,8 +50,8 @@
 - [Handshakes](https://practice.geeksforgeeks.org/problems/handshakes1303/1/) `GFG`
 - [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=recursion&filters%5Bdifficulty%5D%5B%5D=medium)
 - [Divisible Subset](https://www.codechef.com/problems/DIVSUBS)  `Codechef`
-- [Perfect squares](https://leetcode.com/problems/perfect-squares/)`leetcode` Start
-- [decode string](https://leetcode.com/problems/decode-string/)`leetcode`
+- [Perfect squares](https://leetcode.com/problems/perfect-squares/)`leetcode` Start dn
+- [decode string](https://leetcode.com/problems/decode-string/)`leetcode` dn
 - [find the winner of the circular game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) `leetcode`
 - [Different ways to add parantheses in the expression](https://leetcode.com/problems/different-ways-to-add-parentheses/) `leetcode`
 - [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) `leetcode`
