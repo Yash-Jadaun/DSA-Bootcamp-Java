@@ -4,25 +4,25 @@
 # Problems
 
 ## Easy
-- [Sum Triangle from Array](https://www.geeksforgeeks.org/sum-triangle-from-array/) `GFG`
-- [Maximum and Minimum value in an array](https://www.geeksforgeeks.org/recursive-programs-to-find-minimum-and-maximum-elements-of-array/) `GFG`
-- [Binary Search using recursion](https://leetcode.com/problems/binary-search/) `leetcode`
-- [First Uppercase Letter in a String](https://www.geeksforgeeks.org/first-uppercase-letter-in-a-string-iterative-and-recursive/) `GFG`
-- [Reverse String](https://leetcode.com/problems/reverse-string/) `leetcode`
-- [Print 1 To N Without Loop](https://practice.geeksforgeeks.org/problems/print-1-to-n-without-using-loops-1587115620/1/) `GFG`
-- [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) `leetcode`
+- [Sum Triangle from Array](https://www.geeksforgeeks.org/sum-triangle-from-array/) `GFG`dn
+- [Maximum and Minimum value in an array](https://www.geeksforgeeks.org/recursive-programs-to-find-minimum-and-maximum-elements-of-array/) `GFG`dn
+- [Binary Search using recursion](https://leetcode.com/problems/binary-search/) `leetcode`dn
+- [First Uppercase Letter in a String](https://www.geeksforgeeks.org/first-uppercase-letter-in-a-string-iterative-and-recursive/) `GFG`dn
+- [Reverse String](https://leetcode.com/problems/reverse-string/) `leetcode`dn
+- [Print 1 To N Without Loop](https://practice.geeksforgeeks.org/problems/print-1-to-n-without-using-loops-1587115620/1/) `GFG`dn
+- [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) `leetcode`dn
 - [Special Fibonacci](https://www.codechef.com/problems/FIBXOR01/) `CodeChef`
-- [Length of string using Recursion](https://www.geeksforgeeks.org/program-for-length-of-a-string-using-recursion/) `GFG`
-- [Geek-onacci Number](https://practice.geeksforgeeks.org/problems/geek-onacci-number/0/) `GFG`
-- [Recursive Bubble Sort](https://www.geeksforgeeks.org/recursive-bubble-sort/) `GFG`
-- [Recursive Insertion Sort](https://www.geeksforgeeks.org/recursive-insertion-sort/) `GFG`
-- [Sum of digit of a number using Recursion](https://www.geeksforgeeks.org/sum-digit-number-using-recursion/) `GFG`
-- [Product of two numbers using Recursion](https://www.geeksforgeeks.org/product-2-numbers-using-recursion/) `GFG`
-- [Check Prime or not](https://www.geeksforgeeks.org/recursive-program-prime-number/) `GFG`
-- [Sum of Natural numbers using Recursion](https://www.geeksforgeeks.org/sum-of-natural-numbers-using-recursion/) `GFG`
-- [Power of Two](https://leetcode.com/problems/power-of-two/) `leetcode`
-- [Power of Three](https://leetcode.com/problems/power-of-three/) `leetcode`
-- [Power of Four](https://leetcode.com/problems/power-of-four/) `leetcode`
+- [Length of string using Recursion](https://www.geeksforgeeks.org/program-for-length-of-a-string-using-recursion/) `GFG`dn
+- [Geek-onacci Number](https://practice.geeksforgeeks.org/problems/geek-onacci-number/0/) `GFG`dn
+- [Recursive Bubble Sort](https://www.geeksforgeeks.org/recursive-bubble-sort/) `GFG`dn
+- [Recursive Insertion Sort](https://www.geeksforgeeks.org/recursive-insertion-sort/) `GFG`dn
+- [Sum of digit of a number using Recursion](https://www.geeksforgeeks.org/sum-digit-number-using-recursion/) `GFG`dn
+- [Product of two numbers using Recursion](https://www.geeksforgeeks.org/product-2-numbers-using-recursion/) `GFG`dn
+- [Check Prime or not](https://www.geeksforgeeks.org/recursive-program-prime-number/) `GFG`dn
+- [Sum of Natural numbers using Recursion](https://www.geeksforgeeks.org/sum-of-natural-numbers-using-recursion/) `GFG`dn
+- [Power of Two](https://leetcode.com/problems/power-of-two/) `leetcode`dn
+- [Power of Three](https://leetcode.com/problems/power-of-three/) `leetcode`dn
+- [Power of Four](https://leetcode.com/problems/power-of-four/) `leetcode`dn
 - Write a recursive function for given n and a to determine x:
 ```java
       n = a ^ x 
@@ -30,32 +30,32 @@
       (2 ^ -31) <= n <= (2 ^ 31) - 1      
 ```
 - [Write a recursive function that returns the factorial of a number.](https://www.hackerrank.com/challenges/30-recursion/problem) `HackerRank`
-- [Write a recursive function to check whether an array is sorted or not.](https://www.geeksforgeeks.org/program-check-array-sorted-not-iterative-recursive) `GFG`
-- [Number of Steps to Reduce a Number to Zero.](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) `leetcode`
-- [Check for balanced paranthesis using recursion without stack.](https://www.geeksforgeeks.org/check-for-balanced-parenthesis-without-using-stack/) `GFG`
-- [Remove consecutive duplicate characters from a string.](https://www.geeksforgeeks.org/remove-consecutive-duplicates-string/) `GFG` 
-- [Print all possible palindromic partitions of a string.](https://www.geeksforgeeks.org/given-a-string-print-all-possible-palindromic-partition/) `GFG`
-- [Power Set of permutations of a string in Lexicographic order.](https://www.geeksforgeeks.org/powet-set-lexicographic-order/) `GFG`
+- [Write a recursive function to check whether an array is sorted or not.](https://www.geeksforgeeks.org/program-check-array-sorted-not-iterative-recursive) `GFG`dn
+- [Number of Steps to Reduce a Number to Zero.](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) `leetcode`dn
+- [Check for balanced paranthesis using recursion without stack.](https://www.geeksforgeeks.org/check-for-balanced-parenthesis-without-using-stack/) `GFG`dn
+- [Remove consecutive duplicate characters from a string.](https://www.geeksforgeeks.org/remove-consecutive-duplicates-string/) `GFG` dn
+- [Print all possible palindromic partitions of a string.](https://www.geeksforgeeks.org/given-a-string-print-all-possible-palindromic-partition/) `GFG`dn
+- [Power Set of permutations of a string in Lexicographic order.](https://www.geeksforgeeks.org/powet-set-lexicographic-order/) `GFG`dn
 
 ## Medium
-- [Combination Sum](https://leetcode.com/problems/combination-sum/) `leetcode`
-- [Word Search](https://leetcode.com/problems/word-search/) `leetcode`
-- [Target sum](https://leetcode.com/problems/target-sum/) `leetcode`
-- [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) `leetcode`
-- [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) `leetcode`
-- [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) `leetcode`
-- [N Digit numbers with digits in increasing order](https://practice.geeksforgeeks.org/problems/n-digit-numbers-with-digits-in-increasing-order5903/1/) `GFG`
-- [Pow(x, n)](https://leetcode.com/problems/powx-n/) `leetcode`
-- [Minimum Non-Zero Product of the Array Elements](https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/) `leetcode`
-- [Handshakes](https://practice.geeksforgeeks.org/problems/handshakes1303/1/) `GFG`
+- [Combination Sum](https://leetcode.com/problems/combination-sum/) `leetcode`dn
+- [Word Search](https://leetcode.com/problems/word-search/) `leetcode`dn
+- [Target sum](https://leetcode.com/problems/target-sum/) `leetcode`dn
+- [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) `leetcode`dn
+- [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) `leetcode`dn
+- [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) `leetcode`dn
+- [N Digit numbers with digits in increasing order](https://practice.geeksforgeeks.org/problems/n-digit-numbers-with-digits-in-increasing-order5903/1/) `GFG`dn
+- [Pow(x, n)](https://leetcode.com/problems/powx-n/) `leetcode`dn
+- [Minimum Non-Zero Product of the Array Elements](https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/) `leetcode`dn
+- [Handshakes](https://practice.geeksforgeeks.org/problems/handshakes1303/1/) `GFG`dn
 - [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=recursion&filters%5Bdifficulty%5D%5B%5D=medium)
-- [Divisible Subset](https://www.codechef.com/problems/DIVSUBS)  `Codechef`
+- [Divisible Subset](https://www.codechef.com/problems/DIVSUBS)  `Codechef`dn
 - [Perfect squares](https://leetcode.com/problems/perfect-squares/)`leetcode` Start dn
 - [decode string](https://leetcode.com/problems/decode-string/)`leetcode` dn
 - [find the winner of the circular game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) `leetcode` dn
 - [Different ways to add parantheses in the expression](https://leetcode.com/problems/different-ways-to-add-parentheses/) `leetcode`dn
 - [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) `leetcode`dn
-- [Predict the winner.](https://leetcode.com/problems/predict-the-winner/) `leetcode`
+- [Predict the winner.](https://leetcode.com/problems/predict-the-winner/) `leetcode`dn
 - [Gray code](https://practice.geeksforgeeks.org/problems/gray-code-1611215248/1/) `GFG` `Google`
 - [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) `leetcode`
 - [combination Sum III](https://leetcode.com/problems/combination-sum-iii/) `leetcode`
