@@ -3,29 +3,29 @@
 ## Problems
 
 ## Easy
-- [Add Binary](https://leetcode.com/problems/add-binary/)
-- [Single Number](https://leetcode.com/problems/single-number/)
-- [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
-- [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
-- [Counting Bits](https://leetcode.com/problems/counting-bits/)
-- [Binary Watch](https://leetcode.com/problems/binary-watch/)
-- [Hamming Distance](https://leetcode.com/problems/hamming-distance/)
-- [Number Complement](https://leetcode.com/problems/number-complement/)
-- [Set Mismatch](https://leetcode.com/problems/set-mismatch/)
-- [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)
-- [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)
-- [Binary Gap](https://leetcode.com/problems/binary-gap/)
-- [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
-- [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)
-- [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)
-- [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)
-- [Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)
-- [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/)
-- [Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/)
+- [Add Binary](https://leetcode.com/problems/add-binary/)dn
+- [Single Number](https://leetcode.com/problems/single-number/)dn
+- [Reverse Bits](https://leetcode.com/problems/reverse-bits/)dn
+- [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)dn
+- [Counting Bits](https://leetcode.com/problems/counting-bits/)dn
+- [Binary Watch](https://leetcode.com/problems/binary-watch/)dn
+- [Hamming Distance](https://leetcode.com/problems/hamming-distance/)dn
+- [Number Complement](https://leetcode.com/problems/number-complement/)dn
+- [Set Mismatch](https://leetcode.com/problems/set-mismatch/)dn
+- [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)dn
+- [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)dn
+- [Binary Gap](https://leetcode.com/problems/binary-gap/)dn
+- [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)dn
+- [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)dn
+- [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)dn
+- [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)dn
+- [Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)dn
+- [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/)dn
+- [Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/)dn
 
 ## Medium
-- [Subsets](https://leetcode.com/problems/subsets/)
-- [Subsets II](https://leetcode.com/problems/subsets-ii/)
+- [Subsets](https://leetcode.com/problems/subsets/)dn
+- [Subsets II](https://leetcode.com/problems/subsets-ii/)dn
 - [Single Number II](https://leetcode.com/problems/single-number-ii/)
 - [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)
 - [Gray Code](https://leetcode.com/problems/gray-code/)
