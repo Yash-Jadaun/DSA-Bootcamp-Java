@@ -57,9 +57,9 @@
 - [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) `leetcode`dn
 - [Predict the winner.](https://leetcode.com/problems/predict-the-winner/) `leetcode`dn
 - [Gray code](https://practice.geeksforgeeks.org/problems/gray-code-1611215248/1/) `GFG` `Google`dn
-- [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) `leetcode`
-- [combination Sum III](https://leetcode.com/problems/combination-sum-iii/) `leetcode`
-- [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) `leetcode`
+- [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) `leetcode`dn
+- [combination Sum III](https://leetcode.com/problems/combination-sum-iii/) `leetcode`dn
+- [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) `leetcode`dn
 - [Letter tile possibilities](https://leetcode.com/problems/letter-tile-possibilities/) `leetcode`
 - [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) `leetcode`
 - [Sort a stack using recursion](https://www.geeksforgeeks.org/sort-a-stack-using-recursion/) `GFG`
