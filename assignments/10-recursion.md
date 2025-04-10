@@ -60,11 +60,11 @@
 - [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) `leetcode`dn
 - [combination Sum III](https://leetcode.com/problems/combination-sum-iii/) `leetcode`dn
 - [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) `leetcode`dn
-- [Letter tile possibilities](https://leetcode.com/problems/letter-tile-possibilities/) `leetcode`
-- [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) `leetcode`
+- [Letter tile possibilities](https://leetcode.com/problems/letter-tile-possibilities/) `leetcode`dn
+- [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) `leetcode` dn
 - [Sort a stack using recursion](https://www.geeksforgeeks.org/sort-a-stack-using-recursion/) `GFG`
 - [Reverse a stack using recursion](https://www.geeksforgeeks.org/reverse-a-stack-using-recursion/) `GFG`
-- [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/) `leetcode`
+- [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/) `leetcode`dn
 - [Lowest Common Ancestor of a Binary Tree](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1/) `GFG` `Amex`
 - [Prime numbers after prime P with sum S](https://www.geeksforgeeks.org/prime-numbers-after-prime-p-with-sum-s/) `GFG`
 - [Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/) `leetcode`
