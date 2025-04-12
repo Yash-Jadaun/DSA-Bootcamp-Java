@@ -26,10 +26,10 @@
 ## Medium
 - [Subsets](https://leetcode.com/problems/subsets/)dn
 - [Subsets II](https://leetcode.com/problems/subsets-ii/)dn
-- [Single Number II](https://leetcode.com/problems/single-number-ii/)
-- [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)
-- [Gray Code](https://leetcode.com/problems/gray-code/)
-- [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)
+- [Single Number II](https://leetcode.com/problems/single-number-ii/)dn
+- [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)dn
+- [Gray Code](https://leetcode.com/problems/gray-code/)dn
+- [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)dn
 
 ## Hard
 - [Minimum Number of Flips to onvert Binary Matrix to zero matrix](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/)
