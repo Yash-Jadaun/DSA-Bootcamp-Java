@@ -33,8 +33,8 @@
 28. [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)dn
 
 ### Medium
-1. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)dn
-2. [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)dn
+1. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)dn,dn
+2. [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)dn,dn
 3. [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)dn
 4. [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)dn
 5. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)dn
