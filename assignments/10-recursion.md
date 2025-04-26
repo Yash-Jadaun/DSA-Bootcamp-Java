@@ -74,7 +74,7 @@
 - [Reorder List](https://leetcode.com/problems/reorder-list/) `leetcode`
 
 ## Hard
-- [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) `leetcode`
+- [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) `leetcode` dn
 - [Special Binary String](https://leetcode.com/problems/special-binary-string/) `leetcode`
 - [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) `leetcode`
 - [Next Happy Number](https://practice.geeksforgeeks.org/problems/next-happy-number4538/1/) `GFG`
