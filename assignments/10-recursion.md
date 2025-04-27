@@ -75,7 +75,7 @@
 
 ## Hard
 - [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) `leetcode` dn
-- [Special Binary String](https://leetcode.com/problems/special-binary-string/) `leetcode`
+- [Special Binary String](https://leetcode.com/problems/special-binary-string/) `leetcode`dn
 - [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) `leetcode`
 - [Next Happy Number](https://practice.geeksforgeeks.org/problems/next-happy-number4538/1/) `GFG`
 - [Basic Calculator](https://leetcode.com/problems/basic-calculator/) `leetcode`
