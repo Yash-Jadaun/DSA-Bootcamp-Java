@@ -80,7 +80,7 @@
 - [Next Happy Number](https://practice.geeksforgeeks.org/problems/next-happy-number4538/1/) `GFG`dn
 - [Basic Calculator](https://leetcode.com/problems/basic-calculator/) `leetcode`dn
 - [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) `leetcode`dn Nice
-- [Maximize Number of Nice Divisors](https://leetcode.com/problems/maximize-number-of-nice-divisors/) `leetcode`
+- [Maximize Number of Nice Divisors](https://leetcode.com/problems/maximize-number-of-nice-divisors/) `leetcode`dn
 - [N Queens](https://leetcode.com/problems/n-queens/) `leetcode`
 - [N Queens II](https://leetcode.com/problems/n-queens-ii/) `leetcode`
 - [Word break II](https://leetcode.com/problems/word-break-ii/) `leetcode` `Google`
