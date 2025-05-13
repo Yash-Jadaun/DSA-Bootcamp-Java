@@ -81,15 +81,15 @@
 - [Basic Calculator](https://leetcode.com/problems/basic-calculator/) `leetcode`dn
 - [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) `leetcode`dn Nice
 - [Maximize Number of Nice Divisors](https://leetcode.com/problems/maximize-number-of-nice-divisors/) `leetcode`dn
-- [N Queens](https://leetcode.com/problems/n-queens/) `leetcode`
-- [N Queens II](https://leetcode.com/problems/n-queens-ii/) `leetcode`
-- [Word break II](https://leetcode.com/problems/word-break-ii/) `leetcode` `Google`
-- [Unique paths III](https://leetcode.com/problems/unique-paths-iii/) `leetcode`
-- [Find shortest safe route in a path with landmines](https://www.geeksforgeeks.org/find-shortest-safe-route-in-a-path-with-landmines/) `GFG` `Google`
+- [N Queens](https://leetcode.com/problems/n-queens/) `leetcode`dn
+- [N Queens II](https://leetcode.com/problems/n-queens-ii/) `leetcode`dn
+- [Word break II](https://leetcode.com/problems/word-break-ii/) `leetcode` `Google`dn
+- [Unique paths III](https://leetcode.com/problems/unique-paths-iii/) `leetcode`dn
+- [Find shortest safe route in a path with landmines](https://www.geeksforgeeks.org/find-shortest-safe-route-in-a-path-with-landmines/) `GFG` `Google`dn
 - [Minimum steps to destination](https://practice.geeksforgeeks.org/problems/minimum-number-of-steps-to-reach-a-given-number5234/1/) `GFG` `Amex` `Adobe`
 - [Hamiltonian Cycle](https://www.geeksforgeeks.org/hamiltonian-cycle-backtracking-6/) `GFG`
 - [M colorning problem](https://www.geeksforgeeks.org/m-coloring-problem-backtracking-5/) `GFG`
 - [The Knight's tour](https://www.geeksforgeeks.org/the-knights-tour-problem-backtracking-1/) `GFG`
 - [Maximum number possible by doing at-most K swaps](https://www.geeksforgeeks.org/find-maximum-number-possible-by-doing-at-most-k-swaps/) `GFG`
 - [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=recursion&filters%5Bdifficulty%5D%5B%5D=hard)
-- [Concatenated Words](https://leetcode.com/problems/concatenated-words/)`leetcode`
+- [Concatenated Words](https://leetcode.com/problems/concatenated-words/)`leetcode`dn
