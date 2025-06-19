@@ -15,8 +15,8 @@
 
 ## Medium
 - [Design Twitter](https://leetcode.com/problems/design-twitter/) `leetcode`
-- [ Design Linked List](https://leetcode.com/problems/design-linked-list/) `leetcode`todo
-- [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) `leetcode`todo
+- [ Design Linked List](https://leetcode.com/problems/design-linked-list/) `leetcode`dn
+- [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) `leetcode`dn
 - [Reorder List](https://leetcode.com/problems/reorder-list/) `leetcode`todo
 - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) `leetcode` `HSBC`todo
 - [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) `leetcode`
