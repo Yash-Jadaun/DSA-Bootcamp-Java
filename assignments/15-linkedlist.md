@@ -14,14 +14,14 @@
 - [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) `leetcode`
 
 ## Medium
-- [Design Twitter](https://leetcode.com/problems/design-twitter/) `leetcode`
+- [Design Twitter](https://leetcode.com/problems/design-twitter/) `leetcode` dn
 - [ Design Linked List](https://leetcode.com/problems/design-linked-list/) `leetcode`dn
 - [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) `leetcode`dn
 - [Reorder List](https://leetcode.com/problems/reorder-list/) `leetcode`dn
 - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) `leetcode` `HSBC`dn
 - [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) `leetcode`dn
 - [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) `leetcode` `TCS` `Amazon` `Microsoft` `Facebook` `Qualcomm`dn
-- [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) `leetcode`
+- [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) `leetcode`dn
 - [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) `leetcode`dn
 - [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) `leetcode` `Amazon`dn
 - [Rotate List](https://leetcode.com/problems/rotate-list/) `leetcode` `Microsoft`
