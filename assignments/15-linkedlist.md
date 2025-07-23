@@ -47,9 +47,9 @@
 - [ Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/)`leetcode`
 
 ## Hard
-- [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) `leetcode`todo
+- [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) `leetcode`dn
 - [LFU Cache](https://leetcode.com/problems/lfu-cache/) `leetcode` `Google`todo
 - [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) `leetcode`todo
-- [Clone a linked list with next and random pointer](https://www.geeksforgeeks.org/clone-linked-list-next-random-pointer-o1-space/) `GFG` `Google` `Flipkart`todo
-- [All O'one Data Structure](https://leetcode.com/problems/all-oone-data-structure/) `leetcode`todo
+- [Clone a linked list with next and random pointer](https://www.geeksforgeeks.org/clone-linked-list-next-random-pointer-o1-space/) `GFG` `Google` `Flipkart`dn
+- [All O'one Data Structure](https://leetcode.com/problems/all-oone-data-structure/) `leetcode`dn
 - [Design Skiplist](https://leetcode.com/problems/design-skiplist/) `leetcode`todo
