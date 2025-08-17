@@ -17,8 +17,8 @@
 - [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/) `leetcode`dn
 - [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) `leetcode`dn
 - [Decode String](https://leetcode.com/problems/decode-string/) `leetcode`dn
-- [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) `leetcode`
-- [132 Pattern](https://leetcode.com/problems/132-pattern/) `leetcode`todo
+- [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) `leetcode`dn
+- [132 Pattern](https://leetcode.com/problems/132-pattern/) `leetcode`dn
 - [Design circular Queue](https://leetcode.com/problems/design-circular-queue/) `leetcode`
 - [Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/) `leetcode`
 - [Design Front Middle Back Queue](https://leetcode.com/problems/design-front-middle-back-queue/) `leetcode`
