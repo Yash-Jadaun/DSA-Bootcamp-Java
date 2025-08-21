@@ -22,7 +22,7 @@
 - [Design circular Queue](https://leetcode.com/problems/design-circular-queue/) `leetcode`
 - [Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/) `leetcode`
 - [Design Front Middle Back Queue](https://leetcode.com/problems/design-front-middle-back-queue/) `leetcode`
-- [Circular tour](https://practice.geeksforgeeks.org/problems/circular-tour/1) `GFG` `Amex` `Amazon`
+- [Circular tour](https://practice.geeksforgeeks.org/problems/circular-tour/1) `GFG` `Amex` `Amazon`Dn
 - [Task Scheduler](https://leetcode.com/problems/task-scheduler/) `leetcode`todo
 - [Stock span problem](https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1/) `GFG`
 - [Max Rectangle](https://practice.geeksforgeeks.org/problems/max-rectangle/1/) `GFG`
